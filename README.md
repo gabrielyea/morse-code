@@ -25,8 +25,8 @@ To get a local copy running follow this steps!
 - GitHub: [@gabrielyea](https://github.com/gabrielyea)
 - Linkedin [Gabriel Rendon](https://www.linkedin.com/in/gabriel-rendon-paredes/)
 
-👤 *Rhyne*
-- GitHub: [@](https://github.com/)
+👤 *Rhyine*
+- GitHub: [@the-catalystmc](https://github.com/the-catalystmc)
 - Linkedin [](https://www.linkedin.com/in/)
 
 👤 *Ricardo*
