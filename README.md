@@ -25,13 +25,13 @@ To get a local copy running follow this steps!
 - GitHub: [@gabrielyea](https://github.com/gabrielyea)
 - Linkedin [Gabriel Rendon](https://www.linkedin.com/in/gabriel-rendon-paredes/)
 
-👤 *Rhyne*
-- GitHub: [@](https://github.com/)
+👤 *Rhyine*
+- GitHub: [@the-catalystmc](https://github.com/the-catalystmc)
 - Linkedin [](https://www.linkedin.com/in/)
 
 👤 *Ricardo*
-- GitHub: [@](https://github.com/)
-- Linkedin [](https://www.linkedin.com/in/)
+- GitHub: [@Richie9000](https://github.com/Richie9000)
+- Linkedin [@Richie9000](https://www.linkedin.com/in/ricardorodr/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
