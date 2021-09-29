@@ -9,7 +9,15 @@ def decode_char(code)
 end
 
 def decode_word(word)
-  wordArr = word.split
-  wordArr.each { |n| decode_char(n) }
+  word_arr = word.split
+  word_arr.each { |n| decode_char(n) }
+  print ' '
 end
-decode_word('-- -.--')
+
+def decode(message)
+  arr = message.split('   ')
+  arr.each { |word| decode_word(word) }
+  puts
+end
+
+decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
