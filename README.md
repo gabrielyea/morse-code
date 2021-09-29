@@ -30,8 +30,8 @@ To get a local copy running follow this steps!
 - Linkedin [](https://www.linkedin.com/in/)
 
 👤 *Ricardo*
-- GitHub: [@](https://github.com/)
-- Linkedin [](https://www.linkedin.com/in/)
+- GitHub: [@Richie9000](https://github.com/Richie9000)
+- Linkedin [@Richie9000](https://www.linkedin.com/in/ricardorodr/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
