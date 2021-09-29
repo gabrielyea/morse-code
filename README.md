@@ -9,17 +9,6 @@
 ## Built With 🔨
 - Ruby
 
-## Getting Started
-To get a local copy running follow this steps!
-- Press the "Code" button and copy the link.
-- Clone it using git command `git clone <link>`.
-- Go to the directory `cd <repo-name>`
-- `npm install` to install the packages
-- `npm run start` to build dist files and run local server.
-
-## Testing 
-- `npm test` Launches the test runner in the interactive watch mode.
-
 ## Author
 👤 *Gabriel Rendon*
 - GitHub: [@gabrielyea](https://github.com/gabrielyea)
